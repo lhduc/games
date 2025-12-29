@@ -8,6 +8,6 @@ import (
 )
 
 func InitModule(ctx context.Context, logger runtime.Logger, db *sql.DB, nk runtime.NakamaModule, initializer runtime.Initializer) error {
-	logger.Info("Hello World from Nakama Go module!")
+	logger.Info("Loaded main game module !!!")
 	return nil
 }

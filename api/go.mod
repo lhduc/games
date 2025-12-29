@@ -1,4 +1,4 @@
-module heroiclabs/sample-templates
+module lhduc/games
 
 go 1.25.0
 
